@@ -1,0 +1,5 @@
+C:\Users\XDER\Documents\Visual Studio 2015\Projects\osu!Spin\osu!Spin\bin\Release\osu!Spin.exe.config
+C:\Users\XDER\Documents\Visual Studio 2015\Projects\osu!Spin\osu!Spin\bin\Release\osu!Spin.exe
+C:\Users\XDER\Documents\Visual Studio 2015\Projects\osu!Spin\osu!Spin\bin\Release\osu!Spin.pdb
+C:\Users\XDER\Documents\Visual Studio 2015\Projects\osu!Spin\osu!Spin\obj\Release\osu!Spin.exe
+C:\Users\XDER\Documents\Visual Studio 2015\Projects\osu!Spin\osu!Spin\obj\Release\osu!Spin.pdb

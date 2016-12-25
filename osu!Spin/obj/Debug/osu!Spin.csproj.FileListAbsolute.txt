@@ -1,0 +1,6 @@
+c:\users\xder\documents\visual studio 2015\Projects\osu!Spin\osu!Spin\bin\Debug\osu!Spin.exe.config
+C:\Users\XDER\documents\visual studio 2015\Projects\osu!Spin\osu!Spin\bin\Debug\osu!Spin.exe
+C:\Users\XDER\documents\visual studio 2015\Projects\osu!Spin\osu!Spin\bin\Debug\osu!Spin.pdb
+C:\Users\XDER\documents\visual studio 2015\Projects\osu!Spin\osu!Spin\obj\Debug\osu!Spin.csprojResolveAssemblyReference.cache
+C:\Users\XDER\documents\visual studio 2015\Projects\osu!Spin\osu!Spin\obj\Debug\osu!Spin.exe
+C:\Users\XDER\documents\visual studio 2015\Projects\osu!Spin\osu!Spin\obj\Debug\osu!Spin.pdb
